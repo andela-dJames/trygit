@@ -1,0 +1,16 @@
+1. what datatypes?
+a. 7.8------------number
+b. "888"-----------string
+c. 67< -11 --------bool
+d. NaN -----------undefined
+e. 56000* 34------numeric literal
+
+
+
+2. Right or wrong variable names?
+a. year--------------Right
+b. *64---------------wrong
+c. _%earn------------right
+d. value-----------------right
+e. salary --------------right
+f. do--------------------wrong
