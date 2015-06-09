@@ -1,0 +1,2 @@
+# trygit
+first git
